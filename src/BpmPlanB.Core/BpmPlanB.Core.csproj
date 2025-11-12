@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Description>Lightweight BPM engine for orchestrating client-defined workflows.</Description>
+    <PackageId>BpmPlanB.Core</PackageId>
+    <Authors>BpmPlanB</Authors>
+  </PropertyGroup>
+</Project>
